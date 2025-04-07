@@ -1,0 +1,22 @@
+{
+  "name": "playwright_academy_spring25_netopilik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netopilikales/playwright_academy_spring25_Netopilik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netopilikales/playwright_academy_spring25_Netopilik/issues"
+  },
+  "homepage": "https://github.com/netopilikales/playwright_academy_spring25_Netopilik#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}
